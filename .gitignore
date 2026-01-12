@@ -1,0 +1,6 @@
+﻿outputs/
+data/
+backup/
+*.png
+*.jpg
+*.mat
