@@ -395,7 +395,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Email:** aerraj50@gmail.com  
 **GitHub:** [@yourusername](https://github.com/aman74)  
-**LinkedIn:** [Aman Jaiswal](https://linkedin.com/in/yourprofile)  
+**LinkedIn:** [Aman Jaiswal]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aman-jaiswal-05b962212/))  
 **Institution:** [IIT Madras](https://www.iitm.ac.in/)
 
 ---
@@ -417,6 +417,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Made with ❤️ by the Deep Learners Team
 
-**Last Updated:** January 6, 2026
 
 </div>
