@@ -394,8 +394,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Email:** aerraj50@gmail.com  
-**GitHub:** [@yourusername](https://github.com/aman74)  
-**LinkedIn:** [Aman Jaiswal]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aman-jaiswal-05b962212/))  
+**GitHub:** (https://github.com/aman74)  
+**LinkedIn:** (https://www.linkedin.com/in/aman-jaiswal-05b962212/) 
 **Institution:** [IIT Madras](https://www.iitm.ac.in/)
 
 ---
